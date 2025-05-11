@@ -1,0 +1,11 @@
+### IntelliJ ###
+.idea/
+*.iml
+out/
+
+### Archivos compilados ###
+*.class
+
+### Librerias ###
+lib/*
+!lib/gson-2.13.1.jar 
