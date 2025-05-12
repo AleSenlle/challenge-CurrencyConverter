@@ -12,7 +12,8 @@ Aplicación de consola que convierte entre diferentes monedas como dólares (USD
 - `Interfaz intuitiva`: Menú numérico con validación de entradas.
 - `Precisión`: Resultados con 4 decimales para tasas y 2 para montos.
 
-## 🎥 Demostración
+## 🎥 Demostración  
+***(Por favor, haz clic en la imagen para ver la demostración completa)***  
 [![GIF del Conversor](https://i.ibb.co/r2RX94NN/CurrencyConverter.gif)](https://ibb.co/r2RX94NN)
 
 ## 🛠️ Tecnologías utilizadas
