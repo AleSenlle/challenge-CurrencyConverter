@@ -13,7 +13,7 @@ Aplicación de consola que convierte entre diferentes monedas como dólares (USD
 - `Precisión`: Resultados con 4 decimales para tasas y 2 para montos.
 
 ## 🎥 Demostración
-<video src="./CurrencyConverter.mp4" controls width="600"></video>
+[![GIF del Conversor](https://i.ibb.co/r2RX94NN/CurrencyConverter.gif)](https://ibb.co/r2RX94NN)
 
 ## 🛠️ Tecnologías utilizadas
 - **Java 24**
